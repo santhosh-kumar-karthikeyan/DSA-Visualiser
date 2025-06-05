@@ -1,0 +1,28 @@
+{
+  "name": "dsa-visualiser",
+  "version": "1.0.0",
+  "description": "A project for visualising common data structures and algorithms with a GUI in order to let me practice both web development and DSA",
+  "keywords": [
+    "DSA",
+    "Data",
+    "Structures",
+    "Algorithms",
+    "Vanilla",
+    "JS"
+  ],
+  "homepage": "https://github.com/santhosh-kumar-karthikeyan/DSA-Visualiser#readme",
+  "bugs": {
+    "url": "https://github.com/santhosh-kumar-karthikeyan/DSA-Visualiser/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santhosh-kumar-karthikeyan/DSA-Visualiser.git"
+  },
+  "license": "MIT",
+  "author": "Santhosh Kumar Karthikeyan",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
